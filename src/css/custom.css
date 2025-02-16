@@ -34,3 +34,10 @@
 	margin-left: 15vw;
 	margin-right: 15vw;
 }
+
+@media (max-width: 1024px) {
+	.navbar__inner {
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
