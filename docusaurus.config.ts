@@ -16,8 +16,8 @@ const config: Config = {
 	baseUrl: '/strix.docs/',
 	// GitHub pages deployment config.
 	// If you aren't using GitHub pages, you don't need these.
-	organizationName: 'AstralTeam', // Usually your GitHub org/user name.
-	projectName: 'Strix.js', // Usually your repo name.
+	organizationName: 'jez-er', // Usually your GitHub org/user name.
+	projectName: 'strix.docs', // Usually your repo name.
 
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
