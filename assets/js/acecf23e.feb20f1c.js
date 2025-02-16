@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstrix_website=self.webpackChunkstrix_website||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/strix.docs/blog","blogTitle":"Blog","authorsListPath":"/strix.docs/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstrix_website=self.webpackChunkstrix_website||[]).push([[2427],{2499:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/strix.docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
