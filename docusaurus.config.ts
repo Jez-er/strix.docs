@@ -78,6 +78,7 @@ const config: Config = {
 					label: 'Docs',
 				},
 				{ to: '/blog', label: 'Blog', position: 'left' },
+				{ to: '/tasks', label: 'Tasks', position: 'left' },
 				{
 					href: 'https://github.com/Jez-er/Strix.js',
 					label: 'GitHub',
